@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "456069435152",
+    "firebase_url": "https://estesi-bd94a.firebaseio.com",
+    "project_id": "estesi-bd94a",
+    "storage_bucket": "estesi-bd94a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456069435152:android:e95d9788821a39e7",
+        "android_client_info": {
+          "package_name": "com.example.carlos.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456069435152-dsctvpnoug0t6rb8pudbfr1jhvtg9od8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ACmn_SYHUaGcTLTaiB5XQ694BjnbAuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
